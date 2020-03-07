@@ -2,11 +2,8 @@
 title: EherSenaw
 description: Curiosity driven developer
 url: https://EherSenaw.github.io/
-#logo: halve.png                                       # Site logo(Replace by github account's image)
+logo: halve.png                                       # Site logo(Replace by github account's image)
 locale: en_US
-
-# Avatar
-logo: https://avatars1.githubusercontent.com/u/38028002?s=460&v=4 # Replacement of Site logo
 
 # Left Block Images
 background:
