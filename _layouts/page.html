@@ -9,11 +9,7 @@ layout: compress
 
     <div class="block-left">
       <div class="content">
-        <!-- Following comment was original version! -->
-		<!-- <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo }}"></a> -->
-        <!-- Remove following line in further progress of project -->
-		<!-- And try to use original version-->
-		<a href="{{ site.url }}" class="logo"><img src="{{ avatar.logo }}}"></a>
+        <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo }}"></a>
         <div class="post-title-section">
           <div class="section-line">Posts <em>/</em></div>
           <h1 class="section-title">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
