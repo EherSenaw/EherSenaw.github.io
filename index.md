@@ -1,6 +1,6 @@
 ---
+title: TITLE???
 layout: home
-title: TITLE??
 ---
 # About Site
 
