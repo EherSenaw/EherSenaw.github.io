@@ -1,20 +1,13 @@
-# Halve  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# EherSenaw's Github Page
   
-## `Sorry guys but there will be no update until I buy a new laptop.`
+## `Github page as blog`
+This is EherSenaw(Taewoo Jeong)'s github page.
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-
-To learn how to install and use this theme check out the [installation guide](https://taylantatli.github.io/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
-
-## Preview   
-![screenshot of Halve](/images/halve-home-image.png)
-
-See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.
+Projects & posts would be updated soon on this.
 
 # Credits
-- Original Work: [Vangelis Tzortzis](https://github.com/srekoble)  
+- Theme: [Halve](https://github.com/TaylanTatli/Halve/)
+- Theme's original Work: [Vangelis Tzortzis](https://github.com/srekoble) 
 - Sample Posts and some code examples: [Michael Rose](https://github.com/mmistakes/)
 - Images: [Unsplash](https://unsplash.com/) and [Lorem Pixel](http://lorempixel.com)
 
