@@ -1,5 +1,4 @@
 ---
-title: TITLE???
 layout: home
 ---
 # About Site
