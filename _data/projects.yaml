@@ -2,7 +2,14 @@
 #  url: http://taylantatli.me/Halve
 #  image: http://taylantatli.me/Halve/images/halve-home-image.png
 #  completed: false
-- title: Github Page
-  url: http://EherSenaw.github.io/
+- title: Github Page(Current Page)
+  url: https://EherSenaw.github.io/
   image: https://avatars1.githubusercontent.com/u/38028002?s=460&v=4
   completed: false
+- title: Shoose(Team Project)
+  url: https://github.com/EherSenaw/Shoose
+  image: https://github.com/EherSenaw/Shoose/blob/master/shoose_mark.png
+  completed: true
+  
+  
+ 
