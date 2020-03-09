@@ -1,12 +1,12 @@
-- title: Github Page(Current Page)
-  url: https://EherSenaw.github.io/
+- title: Github Page
+  url: https://github.com/EherSenaw/EherSenaw.github.io
   image: https://avatars1.githubusercontent.com/u/38028002?s=460&v=4
   completed: true
-- title: Shoose(Team Project)
+- title: Shoose/n(Team Project)
   url: https://github.com/EherSenaw/Shoose
   image: https://github.com/EherSenaw/Shoose/blob/master/shoose_mark.png?raw=true
   completed: true
-- title: K-means with KNN support(Personal Project)
+- title: K-means with KNN support/n(Personal Project)
   url: https://github.com/EherSenaw/K-means_with_KNN_support
   image: https://github.com/EherSenaw/K-means_with_KNN_support/blob/master/loss_with_knn.png?raw=true
   completed: true
