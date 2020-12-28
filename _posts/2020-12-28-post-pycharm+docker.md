@@ -72,5 +72,4 @@ Follow these simple steps to connect docker conatiner with pycharm.
 
       ![image-2-3](http://ehersenaw.github.io/images/2020-12-28-post-pycharm+docker/2-3.png)
 
->#
-># Contact: [mail](onow7353@gmail.com)
+># Contact: onow7353@gmail.com
