@@ -10,10 +10,10 @@ tags:
 ---
 **About this section**: 
 
-Follow these simple steps to connect docker conatiner with pycharm.
+Follow these simple steps to connect docker container with pycharm.
 
 
-## Environment
+## **Environment**
 * Ubuntu 18.04
   > Doesn't **NEED** to be **18.04**. Other versions would fit well.
 * PyCharm **Professional**
@@ -21,7 +21,7 @@ Follow these simple steps to connect docker conatiner with pycharm.
 * Docker
   > Pretend already installed.
 
-## Steps
+## **Steps**
 0. If there is any project already opened, close project. Therefore you can get this window.
 
     ![image-0](http://ehersenaw.github.io/images/2020-12-28-post-pycharm+docker/0.png)
